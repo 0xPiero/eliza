@@ -7,7 +7,8 @@
   - Excellent handling of streaming and audio streams, strong HTTP and browser capabilities, superior async programming patterns, easy to work with async/await compared to alternatives
   - Works well for cross-platform applications (web, mobile, desktop)
   - Can interface with native code (C++, Swift, Objective-C, Java) through bridges like React Native or Capacitor.js
-
+    - *tips: to learn JavaScript: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/ and typescript: https://www.freecodecamp.org/news/learn-typescript-beginners-guide/*
+  
 - **Node.js**: An open-source, cross-platform JavaScript *runtime* environment that executes arbitrary JavaScript code outside of a web browser (which means you can build apps on it). It also has a thing called a package manager
 
 - **package manager**: A package manager is a tool that allows developers to install, share, and manage code packages (modules) for their Node.js applications. 
