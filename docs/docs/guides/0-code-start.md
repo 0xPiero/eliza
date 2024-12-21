@@ -1,13 +1,8 @@
 # Getting Started with Building AI Agents using ELIZA with no code experience
 
 ## Key Terms 
-- **TypeScript**: 
-  - TypeScript is a *programming language* (more flexible compared to Python). It is essentially JavaScript with added type system
-  - Most popular programming language ecosystem globally, used in major applications like Discord, Microsoft Teams etc
-  - Excellent handling of streaming and audio streams, strong HTTP and browser capabilities, superior async programming patterns, easy to work with async/await compared to alternatives
-  - Works well for cross-platform applications (web, mobile, desktop)
-  - Can interface with native code (C++, Swift, Objective-C, Java) through bridges like React Native or Capacitor.js
-    - *tips: to learn JavaScript: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/ and typescript: https://www.freecodecamp.org/news/learn-typescript-beginners-guide/*
+- **TypeScript**: TypeScript is a *programming language* (more flexible compared to Python). It is essentially JavaScript with added type system. It is the most popular programming language ecosystem globally, used in major applications like Discord, Microsoft Teams etc. Excellent handling of streaming and audio streams, strong HTTP and browser capabilities, superior async programming patterns, easy to work with async/await compared to alternatives. Works well for cross-platform applications (web, mobile, desktop). Can interface with native code (C++, Swift, Objective-C, Java) through bridges like React Native or Capacitor.js.
+  - *tips: to learn JavaScript: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/ and typescript: https://www.freecodecamp.org/news/learn-typescript-beginners-guide/*
   
 - **Node.js**: An open-source, cross-platform JavaScript *runtime* environment that executes arbitrary JavaScript code outside of a web browser (which means you can build apps on it). It also has a thing called a package manager
 
